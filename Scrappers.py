@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 
 print('''WARNING!!!!
 This script requires INTERNET for it to work
-it will crash if you dont have internet\n
-This script searches and downloads lyrics into a .txt file \n''')
+it will crash if you dont have internet\n''')
 print("Make sure you've gat the spellings correct, otherwise it won't work \n")
 #get the artist and song
 artist_name = input("Enter the artist name: ")
